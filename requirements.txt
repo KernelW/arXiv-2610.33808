@@ -1,0 +1,2 @@
+# Install the local package and the notebook interface.
+-e .[notebook]
