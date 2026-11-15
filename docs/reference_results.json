@@ -1,0 +1,16 @@
+{
+  "config_sha256": "129b687a7769d0d7fdd71c4a32cf66cde87952145ed807996d61220e8e266ae7",
+  "crpa_recomputed": true,
+  "vertex_source": "saved reference Cooper matrix (parquet not rerun at M10)",
+  "lambda_Cooper": 1.0436268208205803,
+  "max_gap_meV": 0.288557008968008,
+  "gap_residual": 9.247941583732101e-09,
+  "low_temperature_meV": 0.01,
+  "low_temperature_lambda_Cooper": 1.039777844266199,
+  "low_temperature_max_gap_meV": 0.3137763921910136,
+  "low_temperature_gap_residual": 9.45002427923291e-09,
+  "low_temperature_filling_residual": 2.227107387398064e-13,
+  "phase_winding_main_temperature": -3,
+  "phase_winding_low_temperature": -3,
+  "low_temperature_FS_interpolated_min_gap_meV": 0.21678797064340102
+}

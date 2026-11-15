@@ -1,0 +1,16 @@
+{
+  "parquet_superconductivity/config.py": "3ebbf9d9e904b5b7c57e7cf302cc2796ddb10dc07447221b5838def7783ceb6c",
+  "parquet_superconductivity/crpa.py": "ccae2bd4cb705c7d8a345944e965ad2ce2940e937280b0e1650c5e44c097560d",
+  "parquet_superconductivity/parquet.py": "12ee861f87e8358e9b7888870c714cb470a728860524bf57fd2dbcf2d9557cc3",
+  "parquet_superconductivity/pairing.py": "b00c0f1ffd79dee18dd81099ede2ce7ab2201be0eb4adb14f668f3c7a08ade65",
+  "parquet_superconductivity/workflow.py": "e3a906c1291f9c6077a2c34265c47973e44e870ddc90903c21c63ec1ff5ab794",
+  "parquet_superconductivity/plotting.py": "36149b58019fff8d574cd2c6bf0d1e3eb242954cbcae0e607f700436f919420f",
+  "parquet_superconductivity/phase_winding.py": "e0fd003bcc50506839ac952ffce62cfb7c0d36ede5838d88bebb4422bdd3426e",
+  "parquet_superconductivity/fixed_vertex_temperature.py": "ba772d2c0d81fe36ed2baa5d4919c0b5350d429dbdcc10c53965fb9122f9696d",
+  "parquet_superconductivity/failed_iterate.py": "bc348452810dff28be21feadadacc815d3125b9e65d1133138cebed747ff2655",
+  "free_fermion_gamma/model.py": "e33d469a000e24c93b2a164680d6b20aa3fd5da7d646ad9e8de0c82883dbb54f",
+  "free_fermion_gamma/gamma.py": "2885f344d4e2af6a2f05804c45ad40b0c315bb25eb2a7d7241441f189cee09a0",
+  "free_fermion_gamma/rpa.py": "799d96a0a225b00b9fb0cf493eebdb281e16e88ec94125836266069a2da08276",
+  "static_parquet_memory/solver.py": "887ca0377cd101b6a30568080d90338d12925ffe8fbc0dbc38c02a2ba44a3c91",
+  "static_parquet_memory/gamma_ph_only.py": "094e05a0eac8265bed2b58de95500faacd8a1a44f373d9d1def949f539516c5e"
+}
