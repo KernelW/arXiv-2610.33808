@@ -74,7 +74,7 @@ abca-sc --config configs/reference_D110_n6p375.json --preview
 abca-sc --config configs/reference_D110_n6p375.json
 ```
 
-The default parquet acceptance tolerance is **5 × 10⁻³**, matching the reference notebook's controls. The saved reference actually attained a residual of approximately **8.13 × 10⁻⁵**. These are equation residuals, not energy error bars. For quantitative conclusions, check the actual parquet and BSE residuals and tighten tolerance/refine the mesh. The default adaptive continuation does not relax tolerance or feed failed iterates into pairing. If it cannot reach g=1, it stops and keeps its checkpoint for diagnosis. There is no guarantee that every tunable parameter point converges.
+The default parquet acceptance tolerance is **5 × 10⁻³**, matching the reference notebook's controls. The saved reference actually attained a residual of approximately **8.13 × 10⁻⁵**. These are equation residuals, not energy error bars. For quantitative conclusions, check the actual parquet and BSE residuals and tighten tolerance/refine the mesh. The default adaptive continuation does not relax tolerance or feed failed iterates into pairing. If it cannot reach g=1, it stops and keeps its checkpoint for diagnosis. 
 
 A converged normal solution is a legitimate result when the Cooper eigenvalue is subcritical. Failed gap/number solves are labeled explicitly. Winding is assigned only when a nonzero gap and a resolved closed contour permit it.
 
